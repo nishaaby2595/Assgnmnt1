@@ -1,6 +1,6 @@
 /* General Styles */
 body, html {
-    background-image: url('bg1.jpg');
+    background-image: url('.images/bg1.jpg');
     background-size: cover; /* Ensure the image covers the entire background */
     background-repeat: no-repeat; /* Prevent repeating */
     background-position: center; 
